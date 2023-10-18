@@ -1,26 +1,10 @@
-//your code here
 .holder{
 	display:flex;
-	justify-content:center;
-	justify-content:space-evenly;
 	flex-wrap:wrap;
-	width:300px;
+	justify-content:space-evenly;
 }
-.item-1>p{
-
-	background-color:green;
-	width:40px;
-	height:40px;
-}
-.item-2>p{
-
-	background-color:red;
-	width:40px;
-	height:40px;
-}
-.item-3>p{
-
-	background-color:blue;
-	width:40px;
-	height:40px;
-	}
+.h{
+	width:100px;
+	height:100px;
+	border:2px solid green;
+		}
