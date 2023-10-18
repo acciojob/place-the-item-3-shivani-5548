@@ -1,1 +1,26 @@
 //your code here
+.holder{
+	display:flex;
+	justify-content:center;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+	width:300px;
+}
+.item-1>p{
+
+	background-color:green;
+	width:40px;
+	height:40px;
+}
+.item-2>p{
+
+	background-color:red;
+	width:40px;
+	height:40px;
+}
+.item-3>p{
+
+	background-color:blue;
+	width:40px;
+	height:40px;
+	}
