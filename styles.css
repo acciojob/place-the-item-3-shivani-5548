@@ -1,28 +1,13 @@
 
-/* Your CSS Code here. */
-.holder{
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+    .holder
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
 }
-
-.item-1{
-    width: 100px;
-    height: 100px;
-    background-color: red;
-    order: 2;
+.one
+{
+	flext-wrap:wrap;
+	display:flex;
 }
-
-.item-2{
-    width: 100px;
-    height: 100px;
-    background-color: yellow;
-    order: 4;
-}
-
-.item-3{
-    width: 100px;
-    height: 100px;
-    background-color: blue;
-    order: 1;
-	}
