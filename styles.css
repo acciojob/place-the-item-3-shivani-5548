@@ -1,13 +1,1 @@
 
-    .holder
-{
-	display:flex;
-	flex-direction:row;
-	flex-wrap:wrap;
-	justify-content:space-evenly;
-}
-.one
-{
-	flext-wrap:wrap;
-	display:flex;
-}
